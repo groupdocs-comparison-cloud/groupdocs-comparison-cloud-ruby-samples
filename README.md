@@ -18,7 +18,7 @@ Directory | Description
 ## Resources
 
 + **Website:** [www.GroupDocs.cloud](http://www.GroupDocs.cloud)
-+ **Product Home:** [GroupDocs.Viewer Cloud SDK for Ruby](https://products.groupdocs.cloud/Comparison/Ruby)
++ **Product Home:** [GroupDocs.Comparison Cloud SDK for Ruby](https://products.groupdocs.cloud/Comparison/Ruby)
 + **Download:** [Download GroupDocs.Comparison Cloud SDK for Ruby](https://rubygems.org/gems/groupdocs_comparison_cloud/)
 + **Documentation:** [GroupDocs.Comparison Cloud SDK Documentation](https://docs.groupdocs.cloud/display/Comparisoncloud/Home)
 + **Free Support:** [GroupDocs.Comparison Cloud SDK Free Support Forum](https://forum.groupdocs.cloud/c/Comparison)
