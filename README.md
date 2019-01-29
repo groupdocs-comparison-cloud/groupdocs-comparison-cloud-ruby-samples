@@ -7,7 +7,7 @@ This repository contains [Examples](Examples) projects for [GroupDocs.Comparison
 <p align="center">
 
   <a title="Download complete GroupDocs.Comparison Cloud SDK Examples for Ruby source code" href="https://github.com/groupdocs-comparison-cloud/groupdocs-comparison-cloud-ruby-samples/archive/master.zip">
-	<img src="Download complete GroupDocs.Comparison Cloud SDK Examples for PHP source code" href="https://github.com/groupdocs-comparison-cloud/groupdocs-comparison-cloud-php-samples/archive/master.zip">
+	<img src="https://raw.github.com/AsposeExamples/java-examples-dashboard/master/images/downloadZip-Button-Large.png" />
   </a>
 </p>
 
