@@ -1,11 +1,12 @@
 require 'groupdocs_comparison_cloud'
+
 require './Common.rb'
 
-# Get your app_sid and app_key at https://dashboard.groupdocs.cloud (free registration is required).
-$app_sid = "XXXX-XXXX-XXXX-XXXX"
-$app_key = "XXXXXXXXXXXXXXXX"
+# Get your client_id and client_secret at https://dashboard.groupdocs.cloud (free registration is required).
+$client_id = "XXXX-XXXX-XXXX-XXXX"
+$client_secret = "XXXXXXXXXXXXXXXX"
 
-$config = GroupDocsComparisonCloud::Configuration.new($app_sid, $app_key)
+$config = GroupDocsComparisonCloud::Configuration.new($client_id, $client_secret)
 $config.api_base_url = "https://api.groupdocs.cloud"
 
 class RunExamples
@@ -45,5 +46,9 @@ class RunExamples
   GetChangesCoordinates.Run() 
   require './AdvancedUsage/GetListOfChanges.rb'
   GetListOfChanges.Run() 
+  require './AdvancedUsage/Revisions/GetListOfRevisions.rb'
+  GetListOfRevisions.Run()    
+  require './AdvancedUsage/Revisions/ApplyRevisions.rb'
+  ApplyRevisions.Run()    
 
 end
