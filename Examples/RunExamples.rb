@@ -50,5 +50,9 @@ class RunExamples
   GetListOfRevisions.Run()    
   require './AdvancedUsage/Revisions/ApplyRevisions.rb'
   ApplyRevisions.Run()    
+  require './AdvancedUsage/Revisions/AcceptAllRevisions.rb'
+  AcceptAllRevisions.Run()    
+  require './AdvancedUsage/Revisions/RejectAllRevisions.rb'
+  RejectAllRevisions.Run()        
 
 end
