@@ -45,7 +45,9 @@ class RunExamples
   require './AdvancedUsage/GetChangesCoordinates.rb'
   GetChangesCoordinates.Run() 
   require './AdvancedUsage/GetListOfChanges.rb'
-  GetListOfChanges.Run() 
+  GetListOfChanges.Run()
+  require './AdvancedUsage/GetListOfChangesDirect.rb'
+  GetListOfChangesDirect.Run()
   require './AdvancedUsage/Revisions/GetListOfRevisions.rb'
   GetListOfRevisions.Run()    
   require './AdvancedUsage/Revisions/ApplyRevisions.rb'
